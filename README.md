@@ -1,3 +1,4 @@
+This project was done by Gordon Jin, Yichen Jiang, Jonathan Wu, Di Wu
 
 # Introduction of intended use for code
    This program intakes data of a city's weather attributions, including 
